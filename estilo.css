@@ -1,0 +1,17 @@
+BODY {background:teal;font-family: Verdana, Arial, Helvetica;font-weight:700;font-size:10pt; color:orange;text-align: center;margin-left:0}
+
+H1 {background:maroon url(fondo/c07.gif);font-family: Impact;font-size: 24 pt; font-weight:900;text-align=center; color:black; margin-left:25;margin-right:25; padding:10;border-style:outset; border-width:2;border-color:#339900}
+
+H2 {background:#660066;font-size: 16 pt; font-weight:800;text-align=left; text-indent:15; color:olive; margin-left:10;margin-right:10; padding:10;border-style:outset; border-width:2;border-color:white}
+
+H3 {font-weight:700;font-size:10pt;text-align:left;font-style:oblique;color:white;margin-left:80}
+
+H4 {text-align:right;font-weight:900;color:teal}
+
+H5 {text-align:center;color:white;margin-left:35}
+
+H6 {font-family:Impact;font-size:24px; color:orange}
+
+A:link {color:yellow;font-weight:800;text-decoration:none}
+A:visited {color:lime;font-weight:800;text-decoration:none}
+A:hover {color:aqua;font-weight:800}

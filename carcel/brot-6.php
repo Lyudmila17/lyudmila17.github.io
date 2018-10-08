@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>Partido Comunista de Espa&ntilde;a (reconstituido)</title>
+<LINK REL=stylesheet HREF="../stilo-1.css" TYPE="text/css">
+</head>
+
+<BODY>
+
+<H1>Cr&oacute;nica del recibimiento</H1>
+<img src="todos7.jpg" width=200 height=150 hspace=15 align="right">
+
+
+Por fin, el 26 de agosto sali&oacute; de prisi&oacute;n nuestro camarada Francisco Brotons Beneyto.
+
+<P>Fue recibido a la puerta misma de la c&aacute;rcel por unos 70 amigos y solidarios que llegaron desde todos los rincones (C&aacute;diz, Murcia, Catalunya, Madrid, Sevilla, C&oacute;rdoba, Galicia, Euskal Herria,...) pertrechados de alegr&iacute;a, pancartas, gritos, banderas y cohetes... por esta vez s&oacute;lo de los de fiesta.
+
+<P><img src="brotons7.jpg" width=167 height=242 hspace=15 align="left">
+
+Era emocionante comprobar la reuni&oacute;n de compa&ntilde;eros tan diversos (anarquistas, independentistas, comunistas) que han sido capaces de agruparse en torno a esta fiesta tan emotiva, forjando as&iacute; el embri&oacute;n de lo que tiene que ser la unidad de todos contra el fascismo opresor, empezando por eso tan grande que es la solidaridad hacia los represaliados, sin distinciones ideol&oacute;gicas. Eso nos demuestra que vamos por el buen camino, que aunque acabamos de echar a andar pr&aacute;cticamente, no nos hemos equivocado de itinerario y que una unidad amplia es posible.
+
+<P>Ante la espera, comenzaron a cantar y a gritar consignas contra la represi&oacute;n y por la libertad de todos los presos pol&iacute;ticos. La guardia civil se puso en alerta y una dotaci&oacute;n se acerc&oacute; al grupo intimidando.
+
+<P><img src="espera1.jpg" width=200 height=150 hspace=15 align="right">
+
+Les hicieron esperar desde las 7 de la madrugada hasta las 11’45 porque los fascistas quisieron alargar su cruel encierro hasta el &uacute;ltimo minuto, pero al fina estall&oacute; la salva de aplausos que se merec&iacute;a.
+
+<P>Nuestro camarada sali&oacute; muy emocionado y nervioso, hasta el punto que apenas fue capaz de abrazarse con los congregados.
+
+<P><img src="senyera.jpg" width=200 height=267 hspace=15 align="left">
+
+Los numerosos medios de comunicaci&oacute;n (radio, prensa, televisi&oacute;n agencias) all&iacute; presentes, como siempre, quisieron entrevistar a nuestro camarada que se neg&oacute; a decirles ni una sola palabra y les remiti&oacute; a sus fuentes de informaci&oacute;n habituales: la polic&iacute;a.
+
+<P>Luego los asistentes montaron en las furgonetas y ondeando banderas de Catalunya, de Euskal Herria, de Galicia, de Irlanda, republicanas y rojas con la hoz y el martillo, fueron desfilando en procesi&oacute;n hasta el campo de f&uacute;tbol de un barrio de Sevilla, donde hab&iacute;a organizada una comida de homenaje y en la que nuestro camarada habl&oacute; para explicar que sale con la intenci&oacute;n de continuar adelante pero que tiene mucho que aprender porque despu&eacute;s de 25 a&ntilde;os de encierro todo ha cambiado y que necesitaba que entre todos le ayud&aacute;ramos a ir comprendiendo las nuevas situaciones que se han ido consolidando en estos a&ntilde;os. En definitiva que quer&iacute;a aprender de todos y que es la gente quien tiene que darle charlas a &eacute;l, y no al rev&eacute;s.
+
+<H3>&iexcl;&iexcl;&iexcl; Bienvenido a casa !!!</H3>
+
+<P style="text-align=center;color:maroon"><FORM ACTION="/server-scripts/formmail/FormMail.pl" METHOD="post">
+Si quieres escribir a Brotons, inserta aqu&iacute; tu mensaje:
+<BR><TEXTAREA NAME="mensaje" ROWS=10 COLS=45></TEXTAREA>
+<input type=hidden name="recipient" value="carloan@hotmail.com">
+<input type=hidden name="redirect" value="http://www.antorcha.org/gracias.htm">
+<BR>Si quieres respuesta,<BR>escribe tu direcci&oacute;n de correo:
+<BR><input type="text" name="from">
+<BR><INPUT TYPE=SUBMIT value="send / enviar">
+<input type="reset" name="Reset" value="delete / borrar"> 
+</form>
+
+
+<P ALIGN="CENTER"><img src="todos8.jpg" width=600 height=450>
+
+<p><TABLE CELLSPACING=25 STYLE="BACKGROUND:comsilk;FONT-WEIGHT:900">
+
+<TR><TD colspan=2 style="text-align:center;font-weight:900;font-size:20;color:steelblue">M&aacute;s informaci&oacute;n sobre nuestro camarada:</TD></tr>
+
+<TR><TD>
+<A HREF="../comun/mlkp2.htm">Comunicado del MLKP sobre la salida de Brotons</A>
+
+<TD><A HREF="brotons-3.htm">3 de febrero: Jornada Internacional
+<BR>"Libertad para Brotons"</A></TD>
+
+
+<tr><td><A HREF="brot-5.htm">El movimiento obrero y comunista no puede avanzar en cada pa&iacute;s por separado</A></TD>
+
+
+<TD><A HREF="brot-entrev.htm">Entrevista</a></td></TR>
+
+<TR><td><A HREF="brotons.htm">&iexcl;&iexcl;&iexcl; 25 a&ntilde;os en las mazmorras fascistas !!!</A></td>
+
+<TD><A HREF="brotons-4.htm">Carta desde la prisi&oacute;n</A></td></TR>
+
+<tr><td><A HREF="../carcel/brot-7.htm">Saudação ao Companheiro Fancisco Brotons da Liga Operária do Brasil</A>
+
+</table>
+
+</BODY>
+</HTML>

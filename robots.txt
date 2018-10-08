@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /foto/
+Disallow: /dibu/
+Disallow: indice.htm
+Disallow: indret.htm
+Disallow: busca.htm
+Disallow: castind.htm
+Disallow: engind.htm
+Disallow: busca.htm
+Disallow: missing.html

@@ -1,0 +1,19 @@
+BODY {background:white;font-family: Verdana, Arial, Helvetica;font-weight:700;font-size:10pt; color:black;text-align: justify;margin-left:15;margin-right:15}
+
+H1 {background:olive url(fondo/v02.jpg);font-family: Impact;font-size: 23 px; font-weight:700;margin:20; padding:15; text-align:center; color:#66CC00; line-height:30px}
+
+H2 {background:#006600;font-size: 12 pt; font-weight:900;text-align=left; margin:20;color:#66cc99; padding:15}
+
+H3 {font-weight:700;text-align=left;margin-left:25;color:#669966; font-style:oblique;font-weight:900;font-size:10pt}
+
+H4 {text-align:right;font-weight:800;color:#006600;margin-right:25; font-size:14}
+
+H5 {text-align:center;color:brown;font-size:14;font-weight:900}
+
+A:link {color:#99ffcc;font-weight:800;text-decoration:none}
+A:visited {color:#cccc99;font-weight:800;text-decoration:none}
+A:hover {color:#ffcc66;font-weight:800}
+
+A.dos:link {color:purple;font-weight:800;text-decoration:none}
+A.dos:visited {color:purple;font-weight:800;text-decoration:none}
+A.dos:hover {color:Indigo}
